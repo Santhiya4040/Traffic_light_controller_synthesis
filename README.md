@@ -43,11 +43,9 @@ The Liberty files are present in the library path,
 
 ![386831050-ce5b5961-0392-49d6-a6fd-d139b6fc8c81](https://github.com/user-attachments/assets/dced9c6c-c55c-436b-a338-1c851c9e79ee)
 
-Area report:
+## Area report:
 
 ![386938282-99a87492-0860-491c-8644-e7d7496eefc4](https://github.com/user-attachments/assets/d5ea97d8-2bc0-40ee-8681-6e21fa529e06)
-
-Power Report:
 
 ## Result:
 
